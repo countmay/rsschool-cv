@@ -1,7 +1,7 @@
 # CV
 ##                            Maiya Sagymova
-          may.vernal.mood@gmail.com | https://github.com/countmay - automatic! 
-                                    | [GitHub](https://github.com/countmay)
+          may.vernal.mood@gmail.com | [My GitHub Account link](https://github.com/countmay "My GitHub Account link")
+------------------------------------|--------------------------------------------------------                                   
           
 ### Goal
 
