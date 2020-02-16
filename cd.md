@@ -1,8 +1,9 @@
 # CV
 ##                            Maiya Sagymova
-          may.vernal.mood@gmail.com | [My GitHub Account link](https://github.com/countmay "My GitHub Account link")
-------------------------------------|--------------------------------------------------------                                   
-          
+
+          may.vernal.mood@gmail.com | [My GitHub Account link](https://github.com/countmay)
+----------------------------------- | ----------------------------------------------------------
+
 ### Goal
 
 I want to learn code to be able to do creative projects
