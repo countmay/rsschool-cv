@@ -1,22 +1,22 @@
-###### CV
-###                           Maiya Sagymova
+# CV
+##                            Maiya Sagymova
           may.vernal.mood@gmail.com | [My GitHub account](https://github.com/countmay)
           
-## Goal
+### Goal
 
 I want to learn code to be able to do creative projects
 
-## Skills:
+### Skills:
 
 * Golang
 * HTML
 * arduino
 
-## Education
+### Education
 
 current-Alem School
 2015-2020 ENU bachelor in Architecture
 
-## English 
+### English 
 
 level - Upper-Intermediate
