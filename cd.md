@@ -1,10 +1,10 @@
-#### CV
+###### CV
 ###                           Maiya Sagymova
           may.vernal.mood@gmail.com | [My GitHub account](https://github.com/countmay)
           
 ## Goal
 
-I want to learn code to be able to do creative projects.
+I want to learn code to be able to do creative projects
 
 ## Skills:
 
